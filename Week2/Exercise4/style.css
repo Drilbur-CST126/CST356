@@ -1,0 +1,27 @@
+.heading
+{
+    background-color: cornflowerblue;
+    color: white;
+    font-size: large;
+}
+
+#main-heading
+{
+    font-style: italic;
+    text-decoration: underline;
+    font-size: xx-large;
+    color: darkblue;
+}
+
+p
+{
+    text-indent: 3%;
+    color: darkslategray;
+}
+
+button
+{
+    font-size: x-large;
+    font-style: oblique;
+    padding: 1%;
+}
