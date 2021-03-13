@@ -1,7 +1,7 @@
 using System.Collections.Generic;
-using webapi.Models;
+using webapi2.Models;
 
-namespace webapi.Databases
+namespace webapi2.Databases
 {
     public class InMemory
     {

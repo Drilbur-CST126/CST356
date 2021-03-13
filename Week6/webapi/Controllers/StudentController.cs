@@ -4,10 +4,10 @@ using System.Linq;
 using System.Threading.Tasks;
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.Extensions.Logging;
-using webapi.Models;
-using webapi.Databases;
+using webapi2.Models;
+using webapi2.Databases;
 
-namespace webapi.Controllers
+namespace webapi2.Controllers
 {
     [ApiController]
     [Route("[controller]")]
